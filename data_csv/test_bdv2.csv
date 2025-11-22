@@ -1,0 +1,201 @@
+path,duration,caption,object,confidence
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/fold_cloth_pnp/05/2023-05-19_13-59-48/raw/traj_group0/traj30,42,fold the cloth from the bottom left to the top right,cloth,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_toykitchen6/many_skills/06/2023-03-11_16-45-58/raw/traj_group0/traj6,33,movve the yellow cloth from the bottom right side of the stove to between the stoves,yellow cloth,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/deepthought_toykitchen2/stack_blocks/14/2023-05-12_16-56-27/raw/traj_group0/traj31,49,put the cube on top of the cylinder,cube,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/deepthought_toykitchen2/stack_blocks/03/2023-05-11_21-10-09/raw/traj_group0/traj42,49,put the yellow block on top of the green cube,yellow block,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_robot_desk/fold_cloth/49/2023-02-14_16-20-41/raw/traj_group0/traj13,29,unfold the cloth from left to right,cloth,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth/01/2023-02-15_13-18-00/raw/traj_group0/traj18,37,fold the cloth from left to right,cloth,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_toykitchen7/many_skills/01/2023-04-13_15-03-04/raw/traj_group0/traj1,22,moved the corn to right side of the table,corn,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_toykitchen2/many_skills/15/2023-03-08_14-55-05/raw/traj_group0/traj2,41,put the the spoon upper left side of the table beside the pot,the spoon upper,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/fold_cloth_pnp/07/2023-05-19_15-54-22/raw/traj_group0/traj2,38,fold the cloth from top left to bottom right,cloth,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_robot_desk/fold_cloth/31/2023-02-13_16-20-05/raw/traj_group0/traj15,34,move the cloth to the right bottom edge of the table,cloth,0.4
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth_pnp/01/2023-05-15_12-39-45/raw/traj_group0/traj31,46,fold the cloth from bottom left to top right,cloth,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol1_toykitchen6/fold_cloth/13/2023-03-01_14-54-13/raw/traj_group0/traj1,44,fold the cloth from left to right,cloth,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol1_toykitchen6/pnp_sweep/15/2023-01-26_14-32-26/raw/traj_group0/traj14,49,move spatula to the upper right corner of the stove,spatula,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_toykitchen7/drawer_pnp/15/2023-04-20_10-37-39/raw/traj_group0/traj19,40,opened the drawer,drawer,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_toykitchen7/drawer_pnp/07/2023-04-19_10-49-42/raw/traj_group0/traj15,33,OPEN A SMALL BOX,,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol1_toykitchen6/fold_cloth/08/2023-03-01_14-10-09/raw/traj_group0/traj17,43,fold the cloth from top to bottom,cloth,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/deepthought_robot_desk/drawer_pnp/30/2023-04-13_13-36-24/raw/traj_group0/traj14,27,open the drawer,drawer,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/fold_cloth_pnp/01/2023-05-19_12-20-29/raw/traj_group0/traj1,49,unfold the cloth from the top right to the bottom left,cloth,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/fold_cloth_pnp/04/2023-05-19_13-12-48/raw/traj_group0/traj28,43,Move the cloth from bottom of table to top,cloth,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth/22/2023-02-16_18-25-48/raw/traj_group0/traj18,39,fold the cloth from the top to the bottom,cloth,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_toykitchen7/drawer_pnp/14/2023-04-20_10-25-05/raw/traj_group0/traj34,35,close the drawer,drawer,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/many_skills/19/2023-02-24_15-32-21/raw/traj_group0/traj14,42,put the strainer to the upper right corner of the table,strainer,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/many_skills/28/2023-03-07_13-10-05/raw/traj_group0/traj22,29,put the spoon on top of the orange towel,spoon,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth/15/2023-02-15_15-17-43/raw/traj_group0/traj3,39,unfold the cloth from top to bottom,cloth,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_toykitchen7/many_skills/30/2023-04-15_18-58-35/raw/traj_group0/traj6,34,move the yellow knife to the lower center of the table,yellow knife,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/deepthought_folding_table/stack_blocks/08/2023-04-28_12-28-52/raw/traj_group0/traj25,41,move the cube to the left,cube,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth_pnp/12/2023-05-18_12-06-48/raw/traj_group0/traj10,37,unfold the cloth from top to bottom,cloth,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_toykitchen7/many_skills/12/2023-04-13_15-52-26/raw/traj_group0/traj23,29,put the sliver lid back on the pot,sliver lid back,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_toykitchen6/many_skills/10/2023-03-11_17-28-35/raw/traj_group0/traj18,29,Move the orange pot from the right burner to the left burner,orange pot,0.4
+/train_data/BridgeDataV2/raw/bridge_data_v2/deepthought_toykitchen2/stack_blocks/16/2023-05-12_18-09-18/raw/traj_group0/traj33,49,put the blue arch on top of green rectangle,blue arch,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth/16/2023-02-16_17-32-29/raw/traj_group0/traj13,37,folding from left bottom to the right side,from,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth_pnp/06/2023-05-17_14-41-25/raw/traj_group0/traj43,41,put the blue figure on the top edge of the cloth,blue figure,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth_pnp/04/2023-05-17_13-20-16/raw/traj_group0/traj1,38,unfold the cloth from top right to bottom left,cloth,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/drawer_pnp/03/2023-04-17_10-04-51/raw/traj_group0/traj5,47,close the drawer,drawer,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/drawer_pnp/22/2023-04-18_13-55-55/raw/traj_group0/traj47,25,take the monkey from the top of the drawer and put it on the table,monkey,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/drawer_pnp/13/2023-04-18_10-49-07/raw/traj_group0/traj3,49,open the drawer,drawer,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth/31/2023-02-16_19-43-49/raw/traj_group0/traj14,44,unfold the cloth from bottom left to the top right,cloth,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol1_toykitchen6/fold_cloth/18/2023-03-04_17-49-44/raw/traj_group0/traj10,34,unfold the cloth from left to right,cloth,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/deepthought_toykitchen2/stack_blocks/10/2023-05-12_12-18-47/raw/traj_group0/traj4,49,put the blue cube on top of the white cylinder,blue cube,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/deepthought_toykitchen2/stack_blocks/14/2023-05-12_16-56-27/raw/traj_group0/traj38,45,Remove the cube from the tower and put it in the middle of the table,cube,0.4
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_toykitchen7/drawer_pnp/12/2023-04-20_09-52-01/raw/traj_group0/traj13,31,getting the thing in the drawer and putting it in the table,thing,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/drawer_pnp/09/2023-04-18_10-11-54/raw/traj_group0/traj15,35,close the drawer,drawer,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol1_toykitchen6/fold_cloth/12/2023-03-01_14-46-23/raw/traj_group0/traj20,32,unfold the cloth from bottom to top,cloth,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/fold_cloth_pnp/17/2023-05-22_14-59-19/raw/traj_group0/traj37,35,unfold from the top right to the bottom left,from the top,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_robot_desk/fold_cloth/42/2023-02-14_15-30-51/raw/traj_group0/traj13,35,fold the cloth from top right to bottom left,cloth,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth/07/2023-02-15_14-04-36/raw/traj_group0/traj3,29,unfold the cloth from right to top left,cloth,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_robot_desk/fold_cloth/61/2023-02-14_17-38-31/raw/traj_group0/traj4,40,fold the cloth from the bottom right to the center,cloth,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_robot_desk/fold_cloth/50/2023-02-14_16-28-26/raw/traj_group0/traj2,34,unfold the cloth from left to right,cloth,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol1_toykitchen6/pnp_sweep/42/2023-01-31_18-10-03/raw/traj_group0/traj17,31,move the yellow knife to the right side of the stove,yellow knife,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/drawer_pnp/01/2023-04-17_09-29-23/raw/traj_group0/traj15,30,put the yellow duck in the drawer,yellow duck,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol1_toykitchen6/fold_cloth/07/2023-03-01_14-03-42/raw/traj_group0/traj1,39,fold the cloth from bottom right to top left,cloth,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_toykitchen7/drawer_pnp/20/2023-04-20_12-18-42/raw/traj_group0/traj20,33,closed the drawer,drawer,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_toykitchen7/drawer_pnp/02/2023-04-19_09-37-30/raw/traj_group0/traj32,42,close the drawer,drawer,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth_pnp/07/2023-05-17_15-07-45/raw/traj_group0/traj49,49,move the cloth to the top left and back,cloth,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth_pnp/08/2023-05-17_15-23-31/raw/traj_group0/traj7,44,fold the cloth right to left,cloth,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/drawer_pnp/04/2023-04-17_10-16-19/raw/traj_group0/traj15,46,close the drawer,drawer,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/fold_cloth_pnp/22/2023-05-29_11-19-13/raw/traj_group0/traj19,35,fold the cloth from right to left,cloth,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_robot_desk/fold_cloth/54/2023-02-14_16-52-17/raw/traj_group0/traj13,40,unfold the cloth from left to right,cloth,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth_pnp/01/2023-05-15_12-39-45/raw/traj_group0/traj28,31,move the cloth toward the three figures on the table,cloth toward the three figures,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/drawer_pnp/00/2023-05-28_16-02-57/raw/traj_group0/traj14,32,open the drawer,drawer,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth_pnp/09/2023-05-17_16-07-30/raw/traj_group0/traj5,48,put the sausage to the top right corner of the cloth,sausage,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/fold_cloth_pnp/15/2023-05-22_14-25-33/raw/traj_group0/traj25,34,unfold the cloth from bottom right to top left,cloth,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth/19/2023-02-16_17-54-25/raw/traj_group0/traj12,34,unfold the cloth from top right to bottom left,cloth,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/fold_cloth_pnp/22/2023-05-29_11-19-13/raw/traj_group0/traj12,34,unfold the cloth from the top left to the right,cloth,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/deepthought_toykitchen2/stack_blocks/12/2023-05-12_15-30-13/raw/traj_group0/traj41,49,put the cylinder on top of the tower,cylinder,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/deepthought_toykitchen2/stack_blocks/11/2023-05-12_14-58-46/raw/traj_group0/traj1,49,put the red block on top of the cylinder,red block,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_robot_desk/fold_cloth/18/2023-02-13_14-01-00/raw/traj_group0/traj13,41,fold the cloth from the bottom left to top right,cloth,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol1_toykitchen6/fold_cloth/04/2023-02-15_19-41-49/raw/traj_group0/traj10,30,move the cloth to the top left,cloth,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/deepthought_robot_desk/drawer_pnp/29/2023-04-13_13-22-49/raw/traj_group0/traj21,32,moved the doll to the lower middle side of the table,doll,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/many_skills/34/2023-03-07_13-45-26/raw/traj_group0/traj1,46,put the lid on the silver pot,lid,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_robot_desk/fold_cloth/29/2023-02-13_15-14-40/raw/traj_group0/traj4,31,fold the cloth from bottom right,cloth,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/drawer_pnp/15/2023-04-18_12-27-29/raw/traj_group0/traj33,30,pick up the banana from the table and place it on top of the drawer,up the banana,0.4
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol1_toykitchen6/fold_cloth/12/2023-03-01_14-46-23/raw/traj_group0/traj18,35,fold the cloth from bottom left to the right,cloth,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/fold_cloth_pnp/22/2023-05-29_11-01-45/raw/traj_group0/traj34,34,fold the cloth from bottom right to top left,cloth,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_toykitchen6/many_skills/03/2023-03-11_16-15-23/raw/traj_group0/traj9,41,takes the silver pot and places it on top of the orange cloth,silver pot,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/deepthought_folding_table/stack_blocks/09/2023-04-28_12-46-05/raw/traj_group0/traj30,38,put the yellow triangle on top of the red cube,yellow triangle,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/drawer_pnp/12/2023-04-18_10-32-47/raw/traj_group0/traj6,41,closed the drawer,drawer,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/fold_cloth_pnp/13/2023-05-22_13-48-06/raw/traj_group0/traj31,34,move the blue figure from the bottom of the edge of cloth,blue figure,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_toykitchen2/many_skills/03/2023-03-08_13-18-49/raw/traj_group0/traj20,39,move the blue can above the brown pot,,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_toykitchen2/many_skills/05/2023-03-08_13-37-54/raw/traj_group0/traj6,37,move the sushi to the top right side of the table,sushi,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol1_toykitchen6/fold_cloth/18/2023-03-04_17-49-44/raw/traj_group0/traj17,42,fold the cloth from top right to the middle,cloth,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth/27/2023-02-16_18-58-49/raw/traj_group0/traj16,33,fold the cloth from the bottom to the top,cloth,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/fold_cloth_pnp/15/2023-05-22_14-25-33/raw/traj_group0/traj11,43,fold the cloth from bottom roght to top left,cloth,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth/10/2023-02-15_14-38-22/raw/traj_group0/traj17,33,unfold the cloth from top left to bottom right,cloth,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth_pnp/06/2023-05-17_14-41-25/raw/traj_group0/traj25,49,unfold the cloth from the right to the left,cloth,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/deepthought_robot_desk/drawer_pnp/34/2023-04-13_13-59-25/raw/traj_group0/traj17,31,take the yellow corn toy and put it on top right side,yellow corn toy,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/drawer_pnp/20/2023-04-18_13-37-41/raw/traj_group0/traj43,27,move the pink toy to the bottom part of the table,pink toy,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/many_skills/23/2023-03-07_12-39-35/raw/traj_group0/traj6,35,moved the banana to the low right side of the table,banana,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/deepthought_toykitchen2/stack_blocks/11/2023-05-12_15-07-27/raw/traj_group0/traj10,49,put the red cube on top of the tower,red cube,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol1_toykitchen6/fold_cloth/09/2023-03-01_14-19-19/raw/traj_group0/traj0,40,fold the cloth from the bottom left to top right,cloth,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth/26/2023-02-16_18-52-24/raw/traj_group0/traj2,35,fold the cloth from bottom to top,cloth,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/fold_cloth_pnp/03/2023-05-19_12-54-48/raw/traj_group0/traj19,41,fold the cloth from bottom right to top left,cloth,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/deepthought_toykitchen2/stack_blocks/16/2023-05-12_18-09-18/raw/traj_group0/traj25,49,Put the red block beside the green block,,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth_pnp/01/2023-05-15_12-39-45/raw/traj_group0/traj4,25,move the cloth from left to top of the table,cloth,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/stack_blocks/00/2023-05-29_10-20-41/raw/traj_group0/traj29,44,put the yellow rectangular block on top of the green rectangular block,yellow rectangular block,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/fold_cloth_pnp/17/2023-05-22_14-59-19/raw/traj_group0/traj4,49,unfold the cloth from the bottom right to top left,cloth,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/fold_cloth_pnp/04/2023-05-19_13-12-48/raw/traj_group0/traj5,40,unfold the cloth from bottom right to top left,cloth,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol1_toykitchen6/fold_cloth/11/2023-03-01_14-37-12/raw/traj_group0/traj11,28,move the cloth from bottom left to top right of the cooker,cloth,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_laundry_machine/pnp_sweep/14/2023-02-11_17-39-15/raw/traj_group0/traj0,34,move the cloth close to the bottom left side of the table.,cloth close,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth/12/2023-02-15_14-58-21/raw/traj_group0/traj16,41,move the cloth to the left of the table,cloth,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/fold_cloth_pnp/18/2023-05-22_15-17-05/raw/traj_group0/traj39,43,unfolded the cloth from bottom right to the top left,cloth,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth_pnp/02/2023-05-15_12-57-39/raw/traj_group0/traj24,39,unfold the cloth from top left to right,cloth,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth/20/2023-02-16_18-11-12/raw/traj_group0/traj25,38,fold the cloth from top left to the middle,cloth,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_toykitchen7/stack_blocks/04/2023-05-05_11-48-32/raw/traj_group0/traj4,44,put the green arch facing the right side,green arch facing the,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/deepthought_toykitchen2/stack_blocks/02/2023-05-11_18-09-18/raw/traj_group0/traj2,49,put the small block onto the colored blocks,,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/fold_cloth_pnp/22/2023-05-29_11-01-45/raw/traj_group0/traj23,33,fold the cloth from the right to the left,cloth,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth/23/2023-02-16_18-33-37/raw/traj_group0/traj2,39,fold from top to middle,from top,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/deepthought_toykitchen2/stack_blocks/07/2023-05-12_10-37-07/raw/traj_group0/traj20,49,put the block on top of the other block,block,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_toykitchen2/many_skills/08/2023-03-08_13-59-11/raw/traj_group0/traj6,46,Took the ladle and placed it on the upper part of the table,ladle,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/stack_blocks/01/2023-05-29_10-36-05/raw/traj_group0/traj46,35,Pick the green rectangle block and put on the table between yellow and red block,green rectangle block,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth_pnp/11/2023-05-17_16-29-42/raw/traj_group0/traj39,34,moved the blue figure on the top edge of the cloth and placed it on the table,blue figure,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol1_toykitchen6/fold_cloth/26/2023-03-04_19-20-27/raw/traj_group0/traj5,39,unfold cloth from right to left,cloth,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol1_toykitchen6/pnp_sweep/13/2023-01-26_14-16-13/raw/traj_group0/traj13,48,picked up the blue object and place it in the right side of the burner,up the blue object,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/deepthought_toykitchen2/stack_blocks/04/2023-05-11_21-58-37/raw/traj_group0/traj25,49,puts the yellow cube on top of the cream cuboid,yellow cube,0.4
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth/18/2023-02-16_17-48-02/raw/traj_group0/traj15,27,move the cloth to the center of the table,cloth,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_toykitchen7/drawer_pnp/16/2023-04-20_11-44-33/raw/traj_group0/traj27,39,move the gray doll from the table to the top of the drawer,gray doll,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_robot_desk/fold_cloth/06/2023-02-13_12-48-59/raw/traj_group0/traj13,30,move the cloth from left to right,cloth,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth/07/2023-02-15_14-04-36/raw/traj_group0/traj4,32,fold the cloth from bottom to top left,cloth,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/deepthought_folding_table/stack_blocks/05/2023-04-28_10-16-27/raw/traj_group0/traj0,49,place the cube on top of the arch,cube,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_toykitchen2/stack_blocks/02/2023-05-08_15-23-07/raw/traj_group0/traj0,35,put the blue block to the other side,blue block,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_robot_desk/fold_cloth/01/2023-02-13_12-14-39/raw/traj_group0/traj19,35,fold the cloth from top left to bottom right,cloth,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth_pnp/20/2023-05-18_15-11-10/raw/traj_group0/traj30,48,unfold the cloth from the bottom right to the top left,cloth,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/fold_cloth_pnp/15/2023-05-22_14-25-33/raw/traj_group0/traj19,47,unfold the yellow cloth,,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/stack_blocks/00/2023-05-29_10-20-41/raw/traj_group0/traj1,40,remove the yellow rectangular block off of the green rectangular block,yellow rectangular block,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_robot_desk/fold_cloth/19/2023-02-13_14-14-46/raw/traj_group0/traj10,49,unfold the cloth from left to right,cloth,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/deepthought_toykitchen2/stack_blocks/16/2023-05-12_18-09-18/raw/traj_group0/traj40,45,put the red block on top of the cylinder,red block,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol1_toykitchen6/fold_cloth/01/2023-02-15_18-02-07/raw/traj_group0/traj15,28,move the cloth from bottom right to top left,cloth,0.4
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_robot_desk/fold_cloth/59/2023-02-14_17-22-59/raw/traj_group0/traj16,31,fold the cloth from bottom right to left,cloth,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth/06/2023-02-15_13-57-33/raw/traj_group0/traj10,36,fold the cloths from bottom to top,cloths,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth/21/2023-02-16_18-19-50/raw/traj_group0/traj7,38,unfold cloth from mid table to top left,cloth,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/deepthought_robot_desk/drawer_pnp/04/2023-04-05_14-35-42/raw/traj_group0/traj19,40,pick the monkey and put it in the drawer,monkey,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/fold_cloth_pnp/14/2023-05-22_14-10-36/raw/traj_group0/traj5,42,fold the cloth from the bottom right to the top left,cloth,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/fold_cloth_pnp/07/2023-05-19_15-54-22/raw/traj_group0/traj34,41,unfold the cloth from bottom left to top right,cloth,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_toykitchen7/many_skills/27/2023-04-15_18-16-47/raw/traj_group0/traj19,36,move the cloth to the upper left side of the can,cloth,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/fold_cloth_pnp/22/2023-05-29_11-19-13/raw/traj_group0/traj13,34,unfold the cloth from top left to bottom right,cloth,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/many_skills/21/2023-03-04_20-35-25/raw/traj_group0/traj10,39,put the silver pot on top of the cloth,silver pot,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth_pnp/18/2023-05-18_14-09-56/raw/traj_group0/traj40,31,move the blue figure to the top left of the cloth,blue figure,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/drawer_pnp/20/2023-04-18_13-37-41/raw/traj_group0/traj40,23,open the drawer,drawer,0.4
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/fold_cloth_pnp/03/2023-05-19_12-54-48/raw/traj_group0/traj45,36,fold the cloth from left to right,cloth,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/drawer_pnp/12/2023-04-18_10-32-47/raw/traj_group0/traj21,33,close the drawer,drawer,0.4
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/drawer_pnp/09/2023-04-18_10-11-54/raw/traj_group0/traj20,40,put the black ball in the drawer,black ball,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_toykitchen7/drawer_pnp/18/2023-04-20_12-01-42/raw/traj_group0/traj29,27,move the orange carrot to the right in front of the drawer,orange carrot,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_robot_desk/fold_cloth/15/2023-02-13_13-47-05/raw/traj_group0/traj16,35,fold the cloth from the bottom to the top,cloth,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth/28/2023-02-16_19-06-28/raw/traj_group0/traj20,39,unfold the cloth from top left to bottom right,cloth,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/deepthought_robot_desk/drawer_pnp/09/2023-04-07_12-00-05/raw/traj_group0/traj16,49,closed the drawer,drawer,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_robot_desk/fold_cloth/33/2023-02-13_16-48-27/raw/traj_group0/traj11,49,unfold the cloth from right to left,cloth,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/fold_cloth_pnp/08/2023-05-22_12-10-35/raw/traj_group0/traj11,40,fold the cloth from bottom right to top left,cloth,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth_pnp/15/2023-05-18_13-04-44/raw/traj_group0/traj9,42,unfold the cloths from left to ringht,cloths,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/many_skills/02/2023-02-24_13-02-53/raw/traj_group0/traj9,38,put the corn below the metal pot,,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/fold_cloth_pnp/12/2023-05-22_13-29-05/raw/traj_group0/traj40,49,move the cloth back and forth from the top left to bottom right of the table,cloth back,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth/10/2023-02-15_14-38-22/raw/traj_group0/traj10,40,fold the cloth from the right to left,cloth,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth_pnp/04/2023-05-17_13-20-16/raw/traj_group0/traj23,49,remove the toy from the cloth to the right floor,toy,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/deepthought_robot_desk/drawer_pnp/01/2023-04-05_13-04-37/raw/traj_group0/traj10,42,opening the drawer,drawer,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_toykitchen7/drawer_pnp/05/2023-04-19_10-11-41/raw/traj_group0/traj2,37,close the drawer,drawer,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth_pnp/04/2023-05-17_13-20-16/raw/traj_group0/traj2,40,fold the cloth from right to left,cloth,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/deepthought_robot_desk/drawer_pnp/35/2023-04-13_14-06-53/raw/traj_group0/traj7,24,open the drawer,drawer,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/drawer_pnp/20/2023-04-18_13-37-41/raw/traj_group0/traj16,46,moved the knob-like object to the left side of the table,left side,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth_pnp/03/2023-05-17_12-56-23/raw/traj_group0/traj26,46,unfold the cloth from the top left to the bottom right,cloth,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_toykitchen7/drawer_pnp/04/2023-04-19_10-01-01/raw/traj_group0/traj8,30,close the drawer,drawer,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth/04/2023-02-15_13-42-40/raw/traj_group0/traj5,35,folded the cloth from top right to the bottom left,cloth,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_robot_desk/fold_cloth/60/2023-02-14_17-29-21/raw/traj_group0/traj18,35,Unfold the cloth from top to the bottom,cloth,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_robot_desk/fold_cloth/39/2023-02-14_15-15-01/raw/traj_group0/traj16,28,fold the cloth from bottom right to left,cloth,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/stack_blocks/00/2023-05-29_10-20-41/raw/traj_group0/traj17,42,put the blue block in the middle,blue block,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_robot_desk/fold_cloth/26/2023-02-13_14-58-04/raw/traj_group0/traj15,49,unnfold the cloth from top left to bottom right,cloth,0.4
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_robot_desk/fold_cloth/28/2023-02-13_15-09-00/raw/traj_group0/traj14,29,unfold the cloth from right to left,cloth,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_toykitchen6/many_skills/26/2023-03-15_13-44-10/raw/traj_group0/traj13,49,moved the chicken leg in the left side of the burner,chicken leg,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth_pnp/02/2023-05-15_12-57-39/raw/traj_group0/traj40,49,folded left top corner to right bottom corner,left top corner,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/drawer_pnp/20/2023-04-18_13-37-41/raw/traj_group0/traj25,31,put the red object in the drawer,red object,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/deepthought_robot_desk/drawer_pnp/06/2023-04-05_14-56-50/raw/traj_group0/traj20,40,Moved the half carrot from the right side to the left side of the cabinet,half carrot,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_toykitchen2/many_skills/29/2023-03-09_12-13-10/raw/traj_group0/traj13,24,Moved the can from the left side to the top right corner.,can,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_robot_desk/fold_cloth/22/2023-02-13_14-31-30/raw/traj_group0/traj18,33,unfold the cloth from the bottom to the top,cloth,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/many_skills/39/2023-03-07_14-13-05/raw/traj_group0/traj10,25,move the can to the upper side of the table,can,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth/01/2023-02-15_13-18-00/raw/traj_group0/traj22,25,move the cloth to the top of the table,cloth,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth/31/2023-02-16_19-43-49/raw/traj_group0/traj3,33,unfold the cloth from right to left.,cloth,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/deepthought_toykitchen2/stack_blocks/15/2023-05-12_17-49-22/raw/traj_group0/traj5,49,The clamp is between the boxes,,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_toykitchen7/drawer_pnp/10/2023-04-20_09-24-10/raw/traj_group0/traj28,49,take red object out of the drawer and place it on the table,red object,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/fold_cloth_pnp/09/2023-05-22_12-30-01/raw/traj_group0/traj0,49,fold the cloth from top left to bottom right,cloth,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol1_toykitchen6/fold_cloth/12/2023-03-01_14-46-23/raw/traj_group0/traj4,34,move the cloth from top right to bottom left,cloth,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_toykitchen2/stack_blocks/02/2023-05-08_15-23-07/raw/traj_group0/traj47,45,Put the oval with a hole on top of the red cube,oval,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/drawer_pnp/12/2023-04-18_10-32-47/raw/traj_group0/traj32,48,Picked the piece of chocolate and put it into the drawer,piece,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/drawer_pnp/09/2023-04-18_10-11-54/raw/traj_group0/traj4,36,take the sushi from the drawer and put it in the table.,sushi,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/drawer_pnp/25/2023-04-18_14-40-54/raw/traj_group0/traj24,27,put the blue stuffed toy in the drawer,blue stuffed toy,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/drawer_pnp/02/2023-05-28_16-19-57/raw/traj_group0/traj13,34,close the drawer,drawer,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_robot_desk/fold_cloth/10/2023-02-13_13-21-38/raw/traj_group0/traj13,42,unfold the cloth from bottom left to top right,cloth,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/fold_cloth_pnp/15/2023-05-22_14-25-33/raw/traj_group0/traj35,40,fold the cloth from top left to the bottom right,cloth,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_toykitchen7/drawer_pnp/16/2023-04-20_11-44-33/raw/traj_group0/traj13,25,picked up the object and placed it on top of the drawer,up the object,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_toykitchen7/drawer_pnp/01/2023-04-19_09-18-15/raw/traj_group0/traj14,41,pushes the door of the drawer and closes it,door,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/fold_cloth_pnp/22/2023-05-29_11-01-45/raw/traj_group0/traj24,31,fold the fabric to the left,fabric,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth_pnp/20/2023-05-18_15-11-10/raw/traj_group0/traj4,49,unfold the cloth from bottom right to top left,cloth,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth_pnp/12/2023-05-18_12-06-48/raw/traj_group0/traj21,35,put the blue figure on the top edge of the cloth,blue figure,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/many_skills/27/2023-03-07_13-05-08/raw/traj_group0/traj19,44,moved the broccoli to the side of silver cover,broccoli,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_toykitchen7/many_skills/29/2023-04-15_18-47-00/raw/traj_group0/traj3,40,put the plush toy in the silver pot,plush toy,0.4
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol1_toykitchen6/fold_cloth/07/2023-03-01_14-03-42/raw/traj_group0/traj18,41,fold the cloth from top right to left bottom,cloth,0.6
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth/10/2023-02-15_14-38-22/raw/traj_group0/traj1,39,fold the cloth from rigth bottom to the left top,cloth,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/fold_cloth_pnp/05/2023-05-19_13-59-48/raw/traj_group0/traj39,37,fold the cloth from left to right,cloth,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/fold_cloth_pnp/15/2023-05-22_14-25-33/raw/traj_group0/traj16,42,unfold the cloth from bottom left to top right,cloth,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_folding_table/fold_cloth_pnp/03/2023-05-19_12-54-48/raw/traj_group0/traj31,45,Fold a cloth from top to bottom,cloth,1.0
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_laundry_machine/pnp_sweep/15/2023-02-11_17-46-57/raw/traj_group0/traj3,38,move the blue towel to the left,blue towel,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_toykitchen7/drawer_pnp/20/2023-04-20_12-18-42/raw/traj_group0/traj35,28,take the white toy and put it in the drawer,white toy,0.8
+/train_data/BridgeDataV2/raw/bridge_data_v2/datacol2_tabletop_dark_wood/fold_cloth_pnp/12/2023-05-18_12-06-48/raw/traj_group0/traj36,42,unfold the cloth from top right to bottom left,cloth,0.8

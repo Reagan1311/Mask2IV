@@ -1,0 +1,17 @@
+.DS_Store
+*pyc
+.vscode
+__pycache__
+*.egg-info
+*.pth
+*.pt
+*.pb
+*.gz
+*.index
+variables*
+
+checkpoints
+results
+backup
+LOG
+exp_outputs
