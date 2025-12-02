@@ -29,18 +29,20 @@ Install environment following [DynamiCrafter](https://github.com/Doubiiu/DynamiC
 PS: Please refer to scripts in `/func` folder for details on data preprocessing.
 
 
-## Training
+## Training & Evaluation
 Download pretrained models [DynamiCrafter_512](https://huggingface.co/Doubiiu/DynamiCrafter_512/blob/main/model.ckpt) and [DynamiCrafter512_interp](https://huggingface.co/Doubiiu/DynamiCrafter_512_Interp/blob/main/model.ckpt), and update `pretrained_checkpoint` in config files.
 
-I. Stage 1 training
+I. Stage 1 training & evaluation
 ```
 sh run_fist.sh hoi4d | bdv2
 ```
 
-II. Stage 2 training
+II. Stage 2 training & evaluation
 ```
 sh run_second.sh hoi4d | bdv2
 ```
+
+Pretrained models of Mask2IV can be downloaded here: [Huggingface](https://huggingface.co/Gen1113/Mask2IV-pretrained-models)
 
 ## Inference
 ```
