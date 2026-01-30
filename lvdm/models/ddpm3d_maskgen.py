@@ -1154,7 +1154,7 @@ class LatentVisualDiffusion(LatentDiffusion):
 
             else:
                 ## simply repeat the cond_frame to match the seq_len of z
-                # img_cat_cond = z_cat[:,:,cond_frame_index,:,:]
+                img_cat_cond = z_cat[:,:,cond_frame_index,:,:]
                 img_cat_cond = img_cat_cond.unsqueeze(2)
                 img_cat_cond = repeat(img_cat_cond, 'b c t h w -> b c (repeat t) h w', repeat=z.shape[2])
 
