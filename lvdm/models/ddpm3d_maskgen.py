@@ -1121,9 +1121,9 @@ class LatentVisualDiffusion(LatentDiffusion):
         prompt_mask = rearrange(random_num < 2 * self.uncond_prob, "n -> n 1 1")
         input_mask = 1 - rearrange((random_num >= self.uncond_prob).float() * (random_num < 3 * self.uncond_prob).float(), "n -> n 1 1 1")
 
-        # null_prompt = self.get_learned_conditioning([""])
-        # prompt_imb = torch.where(prompt_mask, null_prompt, cond_emb.detach())
-        prompt_imb = self.get_learned_conditioning([""] * x.size(0))
+        null_prompt = self.get_learned_conditioning([""])
+        prompt_imb = torch.where(prompt_mask, null_prompt, cond_emb.detach())
+        # prompt_imb = self.get_learned_conditioning([""] * x.size(0))
 
         ## get conditioning frame
         cond_frame_index = 0
